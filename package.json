@@ -1,0 +1,24 @@
+{
+  "name": "m6-exercise-files",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chalk",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  },
+  "description": "\"\"",
+  "repository": {
+    "type": "git",
+    "url": "chalk"
+  },
+  "keywords": [
+    "chalk"
+  ]
+}
